@@ -1,0 +1,1 @@
+About Karaikal polytechnic college

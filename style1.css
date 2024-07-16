@@ -1,0 +1,60 @@
+body
+{
+	font-family:Sans-serief,arial;
+	font-size:14px;
+	color:blue;
+	background-color:orange;
+}
+header
+{
+	color:green;
+	text-align:center;
+	
+}
+nav{
+	display:flex;
+	align:center;
+	background-color:pink;
+	padding: 5px;
+}
+nav a{
+	align:center;
+	padding: 5px;
+}
+footer
+{
+	text-align:center;
+	padding:3px;
+	background-color:DarkSalmon;
+	color:white;
+	display:block;
+}
+th
+{
+align:center;
+width:30%;
+}
+td
+{
+align:center;
+width:30%;
+}
+h2{ 
+   font-size: 5em; 
+   font-family: serif; 
+   color:#008000; 
+   text-align: center; 
+   animation: animate 1.5s linear infinite; 
+ }  
+@keyframes animate{ 
+   0%{ 
+     opacity: 0; 
+   } 
+   50%{ 
+     opacity: 0.7; 
+   } 
+   100%{ 
+     opacity: 0; 
+   } 
+ } 
+
